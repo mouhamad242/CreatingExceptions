@@ -1,0 +1,7 @@
+C:\Users\mhmdj\source\repos\lab5\lab5\bin\Debug\lab5.exe.config
+C:\Users\mhmdj\source\repos\lab5\lab5\bin\Debug\lab5.exe
+C:\Users\mhmdj\source\repos\lab5\lab5\bin\Debug\lab5.pdb
+C:\Users\mhmdj\source\repos\lab5\lab5\obj\Debug\CreatingExceptions.csproj.AssemblyReference.cache
+C:\Users\mhmdj\source\repos\lab5\lab5\obj\Debug\CreatingExceptions.csproj.CoreCompileInputs.cache
+C:\Users\mhmdj\source\repos\lab5\lab5\obj\Debug\lab5.exe
+C:\Users\mhmdj\source\repos\lab5\lab5\obj\Debug\lab5.pdb
